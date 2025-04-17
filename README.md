@@ -30,11 +30,5 @@ I'm a passionate **Full-Stack JavaScript Developer** specializing in building mo
 [![Katoemma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katoemma&layout=compact&theme=dark)](https://github.com/Katoemma)  
 [![Profile Views](https://komarev.com/ghpvc/?username=Katoemma&color=blueviolet)](https://github.com/Katoemma)
 
-## 📫 Get in Touch
-
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **GitHub**: [github.com/Katoemma]
-- **X**: [x.com/yourhandle]
 
 Feel free to check out my projects below or reach out to collaborate on something awesome! 🚗💨
