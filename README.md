@@ -35,8 +35,8 @@ I'm a passionate **Full-Stack Developer & UI/UX Designer** specializing in build
 
 ## 📊 GitHub Stats
 
-[![Katoemma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katoemma&show_icons=true&theme=dark)](https://github.com/Katoemma)  
-[![Katoemma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katoemma&layout=compact&theme=dark)](https://github.com/Katoemma)  
-[![Profile Views](https://komarev.com/ghpvc/?username=Katoemma&color=blueviolet)](https://github.com/Katoemma)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=katoemma&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=katoemma&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=katoemma&layout=compact&theme=radical)
 
 Feel free to check out my projects below or reach out to collaborate on something awesome! 🚗💨
